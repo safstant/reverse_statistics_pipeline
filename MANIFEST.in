@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include requirements.txt
+include test_step18_lll.py
+recursive-include reverse_stats *.py py.typed
+recursive-include tests *.py
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude *.egg-info
