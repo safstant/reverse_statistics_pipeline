@@ -23,13 +23,13 @@ integer, never an approximation.
 ### From GitHub
 
 ```bash
-pip install git+https://github.com/safstant/reverse_statistics_statistics.git
+pip install git+https://github.com/safstant/reverse_statistics_pipeline.git
 ```
 
 ### From a cloned repo
 
 ```bash
-git clone https://github.com/safstant/reverse_statistics_statistics.git
+git clone https://github.com/safstant/reverse_statistics_pipeline.git
 cd reverse_integer_statistics
 pip install .
 ```
